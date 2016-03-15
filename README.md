@@ -1,5 +1,6 @@
 # simple-chess
-A simple chess program implementated in C++ for the school assignment. 
+A simple chess program implementated in C++ for the school assignment.
+
 En passant, promotion, and castling are all implemented.
 
 
